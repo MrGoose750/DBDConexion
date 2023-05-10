@@ -5,6 +5,10 @@
     Dim _nombre As String
     Dim _estado As Boolean
 
+    Public Sub New()
+
+    End Sub
+
     'Constructor'
     Public Sub New(id As Integer, nombre As String, estado As Boolean)
         _id = id

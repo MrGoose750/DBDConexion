@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProyectoVisual",
+    "\\ProyectoVisual\\RegistroPersonas",
+    "\\ProyectoVisual\\RegistroPersonas\\RegistroPersonas",
+    "\\ProyectoVisual\\RegistroPersonas\\RegistroPersonas\\dao"
   ],
-  "SelectedNode": "\\RegistroPersonas.sln",
+  "SelectedNode": "\\ProyectoVisual\\RegistroPersonas\\RegistroPersonas\\dao\\DCiudades.vb",
   "PreviewInSolutionExplorer": false
 }
